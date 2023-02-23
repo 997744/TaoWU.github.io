@@ -23,8 +23,8 @@ The waterfall model is considered as software lifecycle model to identify a deta
 
 | Name | Contact | Role | Description
 | :------------- | :------------- | :------------- | :------------- | 
-|  Shuo Tang  | stang327@gatech.edu | Developer, Test case designer      | Develop test cases ||
-|  Cam Jones  | cjones476@gatech.edu| Team Manager, Developer      | Lead the team    ||
-|  Tao Wu     | taowu@gatech.edu    | Developer, Tester    |  Test cases    ||
-|  Anuj Anand | aanand92@gatech.edu | Developer, Test designer | Design test process    ||
+|  Shuo Tang  | stang327@gatech.edu | Developer, User case designer      | Develop user case and develop the APP||
+|  Cam Jones  | cjones476@gatech.edu| Team Manager, Developer      | Lead the team and develop the APP    ||
+|  Tao Wu     | taowu@gatech.edu    | Developer, Tester    |  Test cases and develop the APP    ||
+|  Anuj Anand | aanand92@gatech.edu | Developer, Testing designer | Design testing and develop the APP    ||
 
