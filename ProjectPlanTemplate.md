@@ -21,10 +21,7 @@ The waterfall model is considered as software lifecycle model to identify a deta
 
 ## 3 Team
 
-*Describe the team and their roles (include at least 4 roles, there may be more roles than there are team members)*
-
 | Name | Contact | Role | Description
-
 | :------------- | :------------- | :------------- | :------------- | 
 |  Shuo Tang  | stang327@gatech.edu | Team Manager      | Lead the team    ||
 |  Cam Jones  | cjones476@gatech.edu| Team Manager      | Lead the team    ||
