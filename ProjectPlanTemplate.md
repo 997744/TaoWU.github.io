@@ -12,7 +12,7 @@ The waterfall model is considered as software lifecycle model to identify a deta
 
 | Activity | Description | Entrance Criteria | Exit Criteria
 | :------------- | :------------- | :------------- | :------------- | 
-|Analyze Requirements|Analyze the requirements individually and discuss in the meeting.|None |Scope and functions decided||
+|Analyze Requirements|Analyze the requirements individually and discuss in the meeting.|Assignment release |Scope and functions decided||
 |Design Architecture|Construct the structure of design and propose the UML of classes.|Requirements well analyzed |A UML agreed by the team||
 |Design details|Form documents for project details, including ProjectPlan, DesignDocument, UseCaseModel and TestPlan.|UML proposed|Four documents delivery||
 |Construct programs|Realize and debug the proposed program.|Well formatted design documents |The v0.1 beta APP||
