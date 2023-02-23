@@ -23,11 +23,11 @@ The waterfall model is considered as software lifecycle model to identify a deta
 
 *Describe the team and their roles (include at least 4 roles, there may be more roles than there are team members)*
 
-| Name | Contact | Role | Description |
+| Name | Contact | Role | Description
 
-| :------------- | :-------------   |  :-------------   | :-------------   | 
-|  Shuo Tang  | stang327@gatech.edu | Team Manager      | Lead the team    |
-|  Cam Jones  | cjones476@gatech.edu| Team Manager      | Lead the team    |
-|  Tao Wu     | taowu@gatech.edu    | Team Manager      | Lead the team    |
-|  Anuj Anand | aanand92@gatech.edu | Team Manager      | Lead the team    |
+| :------------- | :------------- | :------------- | :------------- | 
+|  Shuo Tang  | stang327@gatech.edu | Team Manager      | Lead the team    ||
+|  Cam Jones  | cjones476@gatech.edu| Team Manager      | Lead the team    ||
+|  Tao Wu     | taowu@gatech.edu    | Team Manager      | Lead the team    ||
+|  Anuj Anand | aanand92@gatech.edu | Team Manager      | Lead the team    ||
 
